@@ -1,0 +1,16 @@
+- **工具**
+  - [百度](https://www.baidu.com)
+  - [Bing](https://cn.bing.com/)
+  - [Google](https://www.google.com)
+  - [GitHub](https://github.com)
+- **收藏网站**
+  - [Docsify](https://docsify.js.org/#/zh-cn/)
+  - [Staticfile CDN](https://staticfile.org)
+  - [Statically CDN](https://statically.io)
+  - [字节跳动静态资源公共库](https://cdn.bytedance.com)
+- **主题**
+  - <span onClick="toBuble()">Buble</span>
+  - <span onClick="toDark()">Dark</span>
+  - <span onClick="toDolphin()">Dolphin</span>
+  - <span onClick="toPure()">Pure</span>
+  - <span onClick="toVue()">Vue</span>
